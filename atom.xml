@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://sparrowhawk0215.github.io/"/>
   <updated>2016-07-08T14:46:10.634Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://sparrowhawk0215.github.io/</id>
   
   <author>
     <name>Akash Wu</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>test1</title>
-    <link href="http://yoursite.com/2016/07/08/test1/"/>
-    <id>http://yoursite.com/2016/07/08/test1/</id>
+    <link href="http://sparrowhawk0215.github.io/2016/07/08/test1/"/>
+    <id>http://sparrowhawk0215.github.io/2016/07/08/test1/</id>
     <published>2016-07-08T14:46:10.000Z</published>
     <updated>2016-07-08T14:46:10.634Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/07/08/hello-world/"/>
-    <id>http://yoursite.com/2016/07/08/hello-world/</id>
+    <link href="http://sparrowhawk0215.github.io/2016/07/08/hello-world/"/>
+    <id>http://sparrowhawk0215.github.io/2016/07/08/hello-world/</id>
     <published>2016-07-08T13:59:36.431Z</published>
     <updated>2016-07-08T13:59:36.431Z</updated>
     
